@@ -1,0 +1,41 @@
+.wraper{
+    display: flex;
+    justify-content: space-around;
+    margin: 20px;
+}
+
+.image{
+width: 200px;
+}
+
+.image-container{
+    display: flex;
+    justify-content: center;
+}
+
+.text-title{
+font-family: Arial, Helvetica, sans-serif;
+color: black;
+font-weight: bolder;
+font-size: 20px;
+}
+
+.text-autor{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: grey;
+    font-size: 17px;
+}
+
+.text-date{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(189, 183, 183);
+    font-size: 14px;
+}
+
+.wrap-container{
+    border: 4px solid black;
+    padding: 20px;
+    border-radius: 20px;
+
+
+}
